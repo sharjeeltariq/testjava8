@@ -15,6 +15,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("New Test");
 		String[] obj = {"abc", "def", "ghi"};
         //int numbers []= {1,2,3,4};
         Collection<String> c = Arrays.asList("123","abc","456","def","789","");
